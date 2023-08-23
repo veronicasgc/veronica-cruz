@@ -9,7 +9,7 @@ function abrirMenu() {
 
 
 function curriculo() {
-    window.location = "./Curriculo Verônica Silveira G. Cruz.pdf";
+    window.location = "./Curriculo Veronica Silveira G. Cruz.pdf";
    
 }
 
