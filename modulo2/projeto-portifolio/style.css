@@ -11,6 +11,15 @@
     box-sizing: border-box;
 }
 
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; 
+  }
+  
+  
+  
+
 /*==========Início===============*/
 
 .section-1-bg{
@@ -19,7 +28,7 @@
     background-position: center;
     background-size: cover;
     height: 100vh;
-    width: 100%;
+    width: 100vw;
 
 }
 
@@ -177,7 +186,7 @@ aside{
     display: flex;
     justify-content: space-around;
     padding: 150px 0px;
-    width: 100%;
+    width: 100vw;
     flex-wrap: wrap;
     background: #D7CBF2;
 }
@@ -252,7 +261,7 @@ aside{
 /*==========Serviços===============*/
 
 .container{
-    width: 100%;
+    width: 100vw;
     background-color: #f3eeee;
     padding: 50px;
 }
@@ -354,7 +363,7 @@ aside{
 /*==========Projetos===============*/
 
 .C-projetos{
-    width: 100%;
+    width: 100vw;
     background-color: white;
     padding: 85px;
 }
@@ -451,7 +460,7 @@ aside{
 /*==========Rodapé===============*/
 
 .C-rodape{
-    width: 100%;
+    width: 100vw;
     background-color:#7601c4;
     padding: 50px;
    
